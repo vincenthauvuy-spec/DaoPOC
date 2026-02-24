@@ -3,19 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.mns.cda</groupId>
-<<<<<<< HEAD
   <artifactId>dao</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>dao</name>
-=======
-  <artifactId>daopoc</artifactId>
-  <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
-
-  <name>daopoc</name>
->>>>>>> a4862a029bce1ca495ac44f5d0c209dc1f3e1442
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -26,7 +18,6 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-<<<<<<< HEAD
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
@@ -35,10 +26,5 @@
       <artifactId>mysql-connector-j</artifactId>
       <version>8.4.0</version>
     </dependency>
-=======
-      <version>4.13.2</version>
-      <scope>test</scope>
-    </dependency>
->>>>>>> a4862a029bce1ca495ac44f5d0c209dc1f3e1442
   </dependencies>
 </project>
